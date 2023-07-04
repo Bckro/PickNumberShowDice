@@ -1,6 +1,6 @@
 # PickNumberShowDice
 
-This Python application is a simple age verification and dice game built using the PySimpleGUI library. It consists of two windows:
+This Python application is a simple age verification and dice game built using the PySimpleGUI library.
 
 ## Features
 
